@@ -1,0 +1,6 @@
+- Vorteile von PEP 8
+    - Wartbarkeit, Lesbarkeit, ...
+- Schreibe eine Liste, die Elemente aus einer anderen kopiert
+________________________________
+
+
